@@ -1,0 +1,16 @@
+PODS:
+  - go_engine (1.0.0)
+
+DEPENDENCIES:
+  - go_engine (from `../../GOModules`)
+
+EXTERNAL SOURCES:
+  go_engine:
+    :path: "../../GOModules"
+
+SPEC CHECKSUMS:
+  go_engine: 0a664fba8ed81ff97e4ebd88d8085dc68fdadeee
+
+PODFILE CHECKSUM: 7a1af044c6d2721a76ee21d98ecb4503237afbc4
+
+COCOAPODS: 1.16.2
